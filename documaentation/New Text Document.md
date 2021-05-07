@@ -17,12 +17,12 @@
 
 
 ## **Scenario:** 
-###1. The person enters the program.
-###2. If the person is a member of the library: 
+### 1. The person enters the program.
+### 2. If the person is a member of the library: 
 -  A) Enter the membership number and password.
 -  B) Reserves the book if it's available.
 -  C) The message "Please refer to the library to receive the book" is displayed. 
-###3. If the person is not a member:
+### 3. If the person is not a member:
 -  A) Enter details including first name, last name, national number, phone number and email. 
 -  B) Enter a password and pay the registration fee.
 -  C) If the registration is successful   a membership number will be awarded the person. 
