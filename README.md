@@ -4,20 +4,20 @@ By subscribing to the program, users can search for the book they want and borro
 This program makes it easy for the user to find the desired book.
 
 ### Technical Specifications:
-- Platform: Desktop
-- programming languages: Java 
-- Database: Sql Server
+-  **Platform:** Desktop
+-  **programming languages:** Java 
+-  **Database:** Sql Server
 
 ### Project requirements:
 #### Functional requirements:
-- Requirement ...
-- Requirement ...
-- Requirement ...
+-  Requirement 
+-  Requirement 
+-  Requirement 
 
 #### Non-Functional Requirements:
-- Requirement ...
-- Requirement ...
-- Requirement ...
+-  Requirement 
+-  Requirement 
+-  Requirement 
 
 ### Project documentation:
 
