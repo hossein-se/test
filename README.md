@@ -24,7 +24,7 @@ This program makes it easy for the user to find the desired book.
 
 ### Developers
 
-#### Project code: 'G33'
+#### Project code: **G33**
 Name  | Id   | Role
 ----  | --   | ----
 Hossein Seyedghasemi | [hossein-se](https://github.com/hossein-se) |
