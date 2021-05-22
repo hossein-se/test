@@ -1,33 +1,33 @@
-###  Borrow Books From The Library Application
-This software is a desktop-based software and is designed and developed in a responsive way.
-By subscribing to the program, users can search for the book they want and borrow it if it is in the library.
-This program makes it easy for the user to find the desired book.
+# امانت گرفتن کتاب از کتابخانه
 
-### Technical Specifications:
--  **Platform:** Desktop
--  **programming languages:** Java 
--  **Database:** Sql Server
+## **:سناریو**
 
-### Project requirements:
-#### Functional requirements:
--  Requirement 
--  Requirement 
--  Requirement 
+### 1.  .شخص وارد برنامه میشود
+### 2.  :اگر شخص عضو کتابخانه بود
+ - الف).  شخص شماره عضویت و رمز عبورخود را وارد میکند  
+ - ب).  لیستی از کتابها برای شخص نمایش داده میشود و شخص کتاب مورد نظرخود را در صورت وجود رزرو میکند
+ - ج).  پیغام برای دریافت کتاب به کتابخانه مراجعه فرمایید برای شخص نمایش داده میشود
 
-#### Non-Functional Requirements:
--  Requirement 
--  Requirement 
--  Requirement 
-
-### Project documentation:
+### 3.  :اگر شخص عضو کتابخانه نبود
+- الف).  یک صفحه برای شخص باز میشود و شخص اگر مایل به عضویت بود مشخصات خود را شامل نام , نام خانوادگی , شماره ملی ,  شماره تلفن و ایمیل را وارد میکند
+- ب). شخص  یک رمز عبور وارد میکند
+- ج).  اگر ثبت نام با موفقیت انجام شد یک شماره عضویت به شخص تعلق میگیرد
+- د).  شخص پس از تکمیل ثبت نام می تواند برای پرداخت هزینه ثبت نام به کتابخانه مراجعه کند
+- ه). شخص دریافت کارت عضویت به کتابخانه مراجعه کند
+- چ).  پس از طی تمامی مراحل شخص می تواند در برنامه درحواست رزرو کتاب خود را ثبت کند   
 
 
-### Developers
+## **Scenario:** 
+### 1. The person enters the program.
+### 2. If the person is a member of the library: 
+-  A) Enter the membership number and password.
+-  B) Reserves the book if it's available.
+-  C) The message "Please refer to the library to receive the book" is displayed. 
+### 3. If the person is not a member:
+-  A) Enter details including first name, last name, national number, phone number and email. 
+-  B) Enter a password and pay the registration fee.
+-  C) If the registration is successful   a membership number will be awarded the person. 
+-  D) After completing the registration, person can request the book of his choice.
+    
 
-#### Project code: **G33**
-Name  | Id   | Role
-----  | --   | ----
-Hossein Seyedghasemi | [hossein-se](https://github.com/hossein-se) |
-Mohammad Abedini | [mohammad1997plg](https://github.com/mohammad1997plg) |
-Seyed Hamidreza Moosavi | [Hamidreza-14](https://github.com/Hamidreza-14) |
-
+                                                                                                                         
