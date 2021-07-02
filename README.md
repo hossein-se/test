@@ -44,14 +44,14 @@
 -  11). Ability to add new books and donation books to inventory
     
 #### Non-Functional Requirements:
-##### operational
--  The system is web-based
--  The membership number is the national code by default
-##### Cultural
--  The system is in Persian
--  Existence of solar date in the header of all pages
-#####  Performance
--    Book search speed and book booking speed should be high
+#### operational
+- The system is web-based
+- The membership number is the national code by default
+#### Cultural
+- The system is in Persian
+- Existence of solar date in the header of all pages
+#### Performance
+-  Book search speed and book booking speed should be high
 ####  Security
--  Back up the information of all users and books every month
+- Back up the information of all users and books every month
                                                                                                                          
