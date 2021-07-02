@@ -45,7 +45,7 @@
     
 #### Non-Functional Requirements:
 #### 1). operational
-- The system is web-based
+- The system is Desktop-based
 - The membership number is the national code by default
 #### 2). Cultural
 - The system is in Persian
